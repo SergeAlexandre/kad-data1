@@ -1,6 +1,6 @@
 
 
 documents:
-  - name: minio-parameters
+  - name: data1-minio-parameters
     file: minio-parameters_.yaml
 
