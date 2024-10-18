@@ -1,0 +1,6 @@
+
+
+documents:
+  - name: minio-parameters
+    file: minio-parameters_.yaml
+
