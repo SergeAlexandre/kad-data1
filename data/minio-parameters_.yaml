@@ -1,5 +1,5 @@
 
 
 minio:
-  rootUser: minio1
+  rootUser: minio
   rootPassword: minio123
